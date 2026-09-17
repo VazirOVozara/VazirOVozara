@@ -1,5 +1,14 @@
-## Hi there 👋
+## HEY! ^-^
 
+**I'm Vazir, a self-taught developer.**
+
+**I'm currently working on my big network** (***V project***)
+
+**It integerates and support many services and websites
+and the goal is FREEDOM, PRIVACY, INDEPENDENCE, SOVEREIGNTY, ANONYMITY and SECURITY**
+
+
+### Stay Tuned ⏰️
 <!--
 **VazirOVozara/VazirOVozara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
